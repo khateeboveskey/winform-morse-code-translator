@@ -1,0 +1,48 @@
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe.config
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.pdb
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.Form1.resources
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.Properties.Resources.resources
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.exe
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.pdb
+C:\Users\Ahmed\Documents\visual studio 2015\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.Form2.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe.config
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.exe
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.pdb
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.pdb
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\mysql.data.dll
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmHistory.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmGuide.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V1.1\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmMain.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe.config
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.exe
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.pdb
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.pdb
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\mysql.data.dll
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmMain.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmGuide.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmHistory.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator V2\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmWhoWe.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe.config
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.exe
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.pdb
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.pdb
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\mysql.data.dll
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmWhoWe.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmMain.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmGuide.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.frmHistory.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\IT - 3rd year\Visual Programming\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csproj.GenerateResource.Cache

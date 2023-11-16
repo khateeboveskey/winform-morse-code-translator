@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{50C55F20-4E32-436C-98C8-3442DF20E3A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MorseCodeTranslator</RootNamespace>
+    <AssemblyName>MorseCodeTranslator</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mysql.data, Version=8.0.31.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Downloads\Compressed\mysql-for-visualstudio-2.0.5-noinstall\v45\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Who_are_we_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Who_are_we_form.Designer.cs">
+      <DependentUpon>Who_are_we_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_ form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_ form .Designer.cs">
+      <DependentUpon>Main_ form .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guide_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guide_form.Designer.cs">
+      <DependentUpon>Guide_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="History_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History_form.Designer.cs">
+      <DependentUpon>History_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Who_are_we_form.resx">
+      <DependentUpon>Who_are_we_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_ form .resx">
+      <DependentUpon>Main_ form .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guide_form.resx">
+      <DependentUpon>Guide_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History_form.resx">
+      <DependentUpon>History_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\sounds\dashSound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\sounds\dotSound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\Morse_litters.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\morse-code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\cross 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\Rectangle 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\Group 6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\Group 7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\Group 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\Group 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\Group 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\Group 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\output\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\Group 9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\Group 10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\Group 8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\Screenshot 2023-11-10 090535.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\Screenshot 2023-11-10 090603.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\Khateeb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\Ahmed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\imgs\osama.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
